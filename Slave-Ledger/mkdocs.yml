@@ -1,0 +1,14 @@
+site_name: Slave Ledger
+theme_dir: cinder
+theme: null
+copyright: 'Copyright &copy; 2017 <a href="mailto:aferreira2@mail.usf.edu">Alex Ferreira</a>'
+repo_url: https://github.com/Arifizu/
+repo_name: 'GitHub'
+pages:
+- Home: 'index.md'
+- Research Focus: 'research.md'
+- Methodology: 'methodology.md'
+- Data: 'data.md'
+- Visual Analysis: 'visualizations.md'
+- Conclusion & Works Cited: 'conclusion.md'
+- Credits: 'credits.md'
